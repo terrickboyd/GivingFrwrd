@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486397582386",
+    "firebase_url": "https://givingforward-e73cf-default-rtdb.firebaseio.com",
+    "project_id": "givingforward-e73cf",
+    "storage_bucket": "givingforward-e73cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486397582386:android:01074d84c5ca774e7cf02b",
+        "android_client_info": {
+          "package_name": "com.terrick.givingforward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486397582386-qqghe8a2n5rf93gpkik4dig99av69a3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTvVHJd5GJUpqtPzSkZbBQhEgaV-8a_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486397582386-qqghe8a2n5rf93gpkik4dig99av69a3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
